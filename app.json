@@ -30,7 +30,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "",
+        "value": "7589211",
 
         "required": true
 
@@ -40,7 +40,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "",
+        "value": "ae00a822639665b963a9d7d08941dde8",
 
         "required": true
 
@@ -50,7 +50,7 @@
 
         "description": "A Bot's token from Botfather",
 
-        "value": "",
+        "value": "7334353444:AAFl3SGKQcDC0AdvtpCljSdyjNPIdlti_7k",
 
         "required": true
 
@@ -60,7 +60,7 @@
 
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
 
-        "value": "",
+        "value": "mongodb+srv://darknexus088:Amarthyadas@cluster0.a5pbxvg.mongodb.net/?retryWrites=true&w=majority",
 
         "required": true
 
@@ -70,7 +70,7 @@
 
         "description": "The user id of user whom you would like to add as OWNER.",
 
-        "value": "",
+        "value": "7137917075",
 
         "required": true
 
@@ -80,7 +80,7 @@
 
         "description": "A Pyrogram v2 String Session from Replit.",
 
-        "value": "",
+        "value": "BQCEsVgAILb7vDtekDBpRkBzi8Nd6Jq7cH7dy-HjXEkLKQ0GghEavw5RRAmyokjzDNJjDcvyhQLhMg-5z7YaWAhmT1jEbRhkZr76T58X5exqrVpqiVv6cXp-af6nXCojaeumMUa5zSm3djhjRKmEMKt6lxASE8A8UiryNCbdO4HdW9tlWZePvVsTFHrgd_4KsJNrLOdLBsnhVVI8j7UYeUddx6VkjGJmj2m4xzq9neojDOeIGLFr4yPGYVo2eORTKxRe6IBqFR7cPxCDz2jt48_Jeb0OD8mAaxNSGP09-DqSx2LiWvM7k0CBxTBL0rVI9vx4kaIDLQ7ctSeMqtomFPNQ_aKCVwAAAAFrK2s3AA",
 
         "required": true
 
@@ -110,7 +110,7 @@
 
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
 
-        "value": "",
+        "value": "-1002460735267",
 
         "required": true
 
